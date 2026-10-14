@@ -17,7 +17,7 @@ Analista de Dados com atuação prática. Graduando Análise e Desenvolvimento d
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Contatos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cauãbonfimdelima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauãbonfimdelima)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauablima45@gmail.com)
 <!--
 **cauabonfimdelima/cauabonfimdelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
