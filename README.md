@@ -1,4 +1,5 @@
-## Olá, meu nome é Cauã Bonfim👋
+## Olá, meu nome é Cauã Bonfim
+Analista de Dados com atuação prática. Graduando Análise e Desenvolvimento de Sistema na Universidade do Estado do Rio de Janeiro (UERJ).
 
 <!--
 **cauabonfimdelima/cauabonfimdelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
